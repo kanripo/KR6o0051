@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 四諦論
+#+DATE: 2015-08-30 21:00:00.702178
+#+PROPERTY: JUAN 0
