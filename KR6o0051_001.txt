@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:00.342376
+#+DATE: 2015-08-30 21:00:02.850839
 #+TITLE: 四諦論
 #+PROPERTY: CBETA_ID T32n1647
 #+PROPERTY: ID KR6o0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1647
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0051_T_001-0375a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1647¶
-
- 《四諦論》卷第一¶
+No. 1647¶
+《四諦論》卷第一¶
 ¶
 婆藪跋摩造¶
 陳天竺三藏真諦譯¶
 
-1思擇品
-:PROPERTIES:
-:head: 思擇品第一
-:END:
-¶
+思擇品第一¶
 
 #+BEGIN_VERSE
 「　般若遍諸法
@@ -527,11 +522,7 @@ No.1647¶
 
 四諦論思擇品究竟。¶
 
-2略說品
-:PROPERTIES:
-:head: 《四諦論》略說品第二
-:END:
-¶
+《四諦論》略說品第二¶
 
 問四諦次第云何。答。¶
 
@@ -638,11 +629,7 @@ No.1647¶
 離相。復說。苦者有相。集者能有相。滅者離¶
 相。道者能離相。¶
 
-3分別苦諦品
-:PROPERTIES:
-:head: 《四諦論》分別苦諦品第三之一
-:END:
-¶
+《四諦論》分別苦諦品第三之一¶
 
 何者為苦諦。略說如此已。云何廣分別。於苦
 <pb:KR6o0051_T_001-0380c>¶
