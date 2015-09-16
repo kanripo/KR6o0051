@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:00.427919
+#+DATE: 2015-08-30 21:00:02.570907
 #+TITLE: 四諦論
 #+PROPERTY: CBETA_ID T32n1647
 #+PROPERTY: ID KR6o0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1647
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6o0051_T_003-0389a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《四諦論》卷第三¶
+《四諦論》卷第三¶
 ¶
 婆藪跋摩造¶
 陳天竺三藏真諦譯¶
 
-5分別滅諦品
-:PROPERTIES:
-:head: 分別滅諦品第五
-:END:
-¶
+分別滅諦品第五¶
 
 經說苦滅。云何此言。何所因起。何法為滅。¶
 何相何事何緣滅名。何義無餘滅。離滅捨斷
